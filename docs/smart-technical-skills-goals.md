@@ -1,4 +1,4 @@
-# SMART Networking Goals
+# SMART Technical Skills Goals
 
 	S: I will establish myself as a Software Developer in the Community.
 	M: I will gain 5000 followers on Twitter and LinkedIn connections to 5000.
