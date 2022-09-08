@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="stylesheet" href="styles.css" />
     <title>Career Plan</title>
   </head>
@@ -14,10 +14,11 @@
     <div style="display: flex; justify-content:space-around; background-color: #f1f1f1; margin: 20px auto; border-radius: 5px; width: 80%;" class="card-top">
       <div style="margin-top: 50px; display: flex; flex-direction: column;"><strong>Daily Routine</strong>
         <ul style="list-style: square; margin-left: 15px; padding-left: 0px">
-          <li style="font-size: 12px; padding-bottom: 5px;"><a href="https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges" target="_blank">HackerRank - 30 Days</a></li>
-          <li style="font-size: 12px; padding-bottom: 5px;"><a href="" target="_blank">Technical Preparation
-          </a></li>
+          <li style="list-style: none;"><input type="checkbox" id="whatever-1" /><a href="https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges" target="_blank">HackerRank - 30 Days</a></li>
+          <li style="list-style: none;"><input type="checkbox" id="whatever-2" /><a href="" target="_blank">Technical Preparation</a></li>
+          <li style="list-style: none;"><input type="checkbox" id="whatever-3" /><a href="https://microverse.zendesk.com/hc/en-us/articles/360053137813-How-Do-I-Find-Jobs-to-Apply-To-" target="_blank">Job Websites</a></li>
         </ul>
+        <input style="margin-left:20px; margin-bottom:20px; width: 70px;" type="button" value="Save" onclick="save();" />
       </div>
       <div style="margin-top: 50px; display: flex; flex-direction: column;"><strong>Meetings Reminder</strong>
         <ul style="list-style: square; margin-left: 15px; padding-left: 0px">
@@ -98,5 +99,6 @@
       </div>
     </div>
 
+  <script src="/script.js"></script>
   </body>
 </html>
