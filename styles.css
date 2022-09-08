@@ -46,3 +46,11 @@ a {
   text-decoration: none;
   color: gray;
 }
+
+h6 > a {
+  text-align: left;
+}
+
+ul > li .boards-items {
+  list-style: none !important;
+}
