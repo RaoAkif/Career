@@ -11,7 +11,7 @@
 - Open Quran REST API
 - Open Quran GraphQL API
 - REST API with Authentication & Documentaiton (DevCamper Project - Traversy Media)
-- REST API with PostgreSQL
+- REST API with PostgreSQL [Follow this tutorial](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
 
 #### React Redux
 - [Cover All Project Steps](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo)
