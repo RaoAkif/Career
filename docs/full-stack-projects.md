@@ -4,7 +4,7 @@
 
 #### Rails
 - Rails Open Quran API - with Swagger Docs
-- Rails API with complete Authentication (Business Information Database)
+- Rails API with complete Authentication (Business Information Database) - with Swagger Docs
 
 #### Express
 - Open Quran REST API
