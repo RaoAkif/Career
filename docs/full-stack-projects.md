@@ -28,7 +28,7 @@
     - Express REST API 
     - GraphQL API
   - Business Information Access with User Logging In to simplest website. 
-  - Business Information 
+  - Retrieving Business Information by applying Entity Resolution Problem 
 
 #### Templates to be prepared:
 - Rails API with Complete Authentication Tutorial in README.md
