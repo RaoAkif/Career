@@ -3,7 +3,7 @@
 ## Backend API
 
 #### Rails
-- Rails Open Quran API - with Swagger Docs
+- Rails Open Quran API - with Swagger Docs [Project Repo](https://github.com/RaoAkif/QuranAPI_Rails)
 - Rails API with complete Authentication (Business Information Database) - with Swagger Docs
 
 #### Express
