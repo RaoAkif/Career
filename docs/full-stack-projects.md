@@ -15,7 +15,7 @@
 #### AWS
 - REST API Todo CRUD with Tutorial
 - GraphQL API Todo CRUD with Tutorial
-- Follow these tutorials to implement above  [Link1](https://www.youtube.com/watch?v=7YgZC0tZJ8A) [Link2](https://www.youtube.com/watch?v=enYadeUMP0E) [Link3](https://www.youtube.com/watch?v=_j8_oiY4GRk) [Link4](https://www.youtube.com/watch?v=UnV_YDz_IIE)
+- Follow these tutorials to implement above  [Link1](https://www.youtube.com/watch?v=7YgZC0tZJ8A) | [Link2](https://www.youtube.com/watch?v=enYadeUMP0E) | [Link3](https://www.youtube.com/watch?v=_j8_oiY4GRk) | [Link4](https://www.youtube.com/watch?v=UnV_YDz_IIE)
 
 
 ## Frontend
