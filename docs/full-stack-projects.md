@@ -5,6 +5,8 @@
 #### Rails
 - Rails Open Quran API - with Swagger Docs ([Project Repo](https://github.com/RaoAkif/QuranAPI_Rails))
 - Rails API with complete Authentication (Business Information Database) - with Swagger Docs
+  - Business API 1 [Link](https://github.com/RaoAkif/RailsBusinessesAPI/tree/main1)
+  - Business API 1 [Link](https://github.com/RaoAkif/RailsBusinessesAPI/tree/main2)
 
 #### Express
 - Open Quran REST API
