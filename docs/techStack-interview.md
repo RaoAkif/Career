@@ -55,7 +55,7 @@
   
   CSS resets aim to remove all built-in browser styling. Standard elements like h1 - h6, p, strong, em end up looking exactly alike, having no decoration at all. You're then supposed to add all decoration yourself.
   Normalize.css aims to make built-in browser styling consistent across browsers. Elements like h1 - h6 will appear bold, larger et cetera in a consistent way across browsers. You're then supposed to add only the difference in decoration your design needs.
-  
+
 </details>
 
 7.	Describe z-index and how stacking context is formed.
@@ -63,7 +63,8 @@
 <details>
   <summary>See Answer</summary>
   
-  ..........
+  A stacking context is created when an element is positioned and assigned a z-index value. z-index is a CSS property that allows you to position elements in layers on top of one another.
+  The parent has a z-index of 2 and the child element also has a z-index of 2 . So both create a stacking context. The z-index of elements inside of a stacking context are always relative to the parent's current order in its own stacking context.
   
 </details>
 
