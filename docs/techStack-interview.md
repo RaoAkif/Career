@@ -12,7 +12,7 @@
 <details>
   <summary>See Answer</summary>
   
-  ![Watch Video](https://www.youtube.com/watch?v=cCrfL84DkEk)
+  [Watch Video](https://www.youtube.com/watch?v=cCrfL84DkEk)
   
 </details>
 3.	Why is it generally a good idea to position CSS `<link>s between <head></head> and JS <script>s just before </body>?` Do you know any exceptions?
