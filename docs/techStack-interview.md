@@ -25,6 +25,7 @@
   The Javascript files are placed before closing the "body", so that they enhance their function once the entire page is loaded.
   
 </details>
+
 4.	What is progressive rendering?
 5.	What is CSS selector specificity and how does it work?
 6.	What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
