@@ -2,7 +2,7 @@
 1.	Describe the difference between a cookie, sessionStorage and localStorage.
 <details>
   <summary>See Answer</summary>
-  OK, LocalStorage as it's called it's local storage for your browsers, it can save up to 10MB, SessionStorage does the same, but as it's name saying, it's session based and will be deleted after closing your browser, also can save less than LocalStorage, like up to 5MB, but Cookies are very tiny data storing in your browser, that can save up 4KB and can be accessed through server or browser both.
+  OK, LocalStorage as it's called it's local storage for your browsers, it can save up to 10MB, SessionStorage does the same, but as it's name saying, it's session based and will be deleted after closing your browser, also can save less than LocalStorage, like up to 5MB, but Cookies are very tiny data storing in your browser, that can save up 4KB and can be accessed through server or browser both.  <br> <br>
   
   ![cI5kT](https://user-images.githubusercontent.com/61361037/194374794-d80be0ed-46d7-430c-bb61-b6f26d4423f7.jpg)
   
