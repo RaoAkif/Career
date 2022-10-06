@@ -1,5 +1,7 @@
 ### HTML & CSS
+
 1.	Describe the difference between a cookie, sessionStorage and localStorage.
+
 <details>
   <summary>See Answer</summary>
   OK, LocalStorage as it's called it's local storage for your browsers, it can save up to 10MB, SessionStorage does the same, but as it's name saying, it's session based and will be deleted after closing your browser, also can save less than LocalStorage, like up to 5MB, but Cookies are very tiny data storing in your browser, that can save up 4KB and can be accessed through server or browser both.  <br> <br>
@@ -9,6 +11,7 @@
 </details>
 
 2.	Describe the difference between `<script>, <script async> and <script defer>`.
+
 <details>
   <summary>See Answer</summary>
   
@@ -18,6 +21,7 @@
 </details>
 
 3.	Why is it generally a good idea to position CSS `<link>s between <head></head> and JS <script>s just before </body>?` Do you know any exceptions?
+
 <details>
   <summary>See Answer</summary>
   
@@ -27,26 +31,195 @@
 </details>
 
 4.	What is progressive rendering?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 5.	What is CSS selector specificity and how does it work?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 6.	What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 7.	Describe z-index and how stacking context is formed.
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 8.	What are the various clearing techniques and which is appropriate for what context?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 9.	How would you approach fixing browser-specific styling issues?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 10.	What are the different ways to visually hide content (and make it available only for screen readers)?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 11.	Have you ever used a grid system, and if so, what do you prefer?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 12.	How do you implement media queries or mobile specific layouts/CSS?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 13.	What are the advantages/disadvantages of using CSS preprocessors?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 14.	Describe pseudo-elements and discuss what they are used for.
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 15.	Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 16.	What is the CSS display property and can you give a few examples of its use?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 17.	What's the difference between a relative, fixed, absolute and statically positioned element?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 18.	Have you played around with the new CSS Flexbox or Grid specs? Could you explain them to me?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 19.	Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 20.	Have you ever worked with retina graphics? If so, when and what techniques did you use?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 21.	What is progressive enhancement?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 22.	What are the differences between vector graphics and raster (bitmap) graphics?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 23.	What is semantic HTML?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
 24.	What is accessibility? How do you make your web application the most accessible?
+
+<details>
+  <summary>See Answer</summary>
+  
+  ..........
+  
+</details>
+
+------------------
 
 ### JavaScript
 1. What is the significance of, and reason for, wrapping the entire content of a JavaScript source file in a function block?
