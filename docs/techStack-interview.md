@@ -1,5 +1,9 @@
 ### HTML & CSS
 1.	Describe the difference between a cookie, sessionStorage and localStorage.
+<details>
+  <summary>See Answer</summary>
+  OK, LocalStorage as it's called it's local storage for your browsers, it can save up to 10MB, SessionStorage does the same, but as it's name saying, it's session based and will be deleted after closing your browser, also can save less than LocalStorage, like up to 5MB, but Cookies are very tiny data storing in your browser, that can save up 4KB and can be accessed through server or browser both.
+</details>
 2.	Describe the difference between `<script>, <script async> and <script defer>`.
 3.	Why is it generally a good idea to position CSS `<link>s between <head></head> and JS <script>s just before </body>?` Do you know any exceptions?
 4.	What is progressive rendering?
