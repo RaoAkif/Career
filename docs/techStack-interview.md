@@ -12,7 +12,7 @@
 <details>
   <summary>See Answer</summary>
   
-  [Watch Video](https://www.youtube.com/watch?v=cCrfL84DkEk)
+  [Watch Video](https://www.youtube.com/watch?v=cCrfL84DkEk) <br>
   [Now Copy & Rephrase Answer](https://thisthat.dev/script-async-vs-script-defer/#:~:text=Differences,and%20resume%20parsing%20the%20document.&text=The%20defer%20script%2C%20on%20the,parser%20has%20completed%20its%20job.)
   
 </details>
