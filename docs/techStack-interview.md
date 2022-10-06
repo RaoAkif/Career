@@ -9,6 +9,12 @@
 </details>
 
 2.	Describe the difference between `<script>, <script async> and <script defer>`.
+<details>
+  <summary>See Answer</summary>
+  
+  ![Watch Video](https://www.youtube.com/watch?v=cCrfL84DkEk)
+  
+</details>
 3.	Why is it generally a good idea to position CSS `<link>s between <head></head> and JS <script>s just before </body>?` Do you know any exceptions?
 4.	What is progressive rendering?
 5.	What is CSS selector specificity and how does it work?
