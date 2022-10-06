@@ -35,7 +35,7 @@
 <details>
   <summary>See Answer</summary>
   
-  ..........
+  Progressive Rendering (aka Progressive Server Side Rendering) is a technique in which once you render the critical content on the server, you start streaming it to the client without waiting for non-critical content. You then stream the non-critical content later once it's rendered on the server.
   
 </details>
 
