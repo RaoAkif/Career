@@ -1,3 +1,5 @@
+## Technical Interview Questions
+
 ### Data Structures and Algorithms
 1.	Can Binary Search be used for linked lists?
 2.	When does the worst case of QuickSort occur?
